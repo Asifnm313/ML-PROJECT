@@ -54,3 +54,10 @@ A Chinese automobile company aims to enter the US market and seeks to understand
       - R-squared: 0.9391398898153419
       - MSE: 4804541.809155916
       - MAE: 1524.2910039660053
+
+---
+
+## Tools Used
+  - **Programming Language: Python**
+  - **Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn**
+  - **Development Environment: Jupyter Notebook**
